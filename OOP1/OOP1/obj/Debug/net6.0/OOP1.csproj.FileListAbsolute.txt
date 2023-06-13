@@ -1,0 +1,17 @@
+C:\Programming\C#\OOP1\OOP1\bin\Debug\net6.0\OOP1.exe
+C:\Programming\C#\OOP1\OOP1\bin\Debug\net6.0\OOP1.deps.json
+C:\Programming\C#\OOP1\OOP1\bin\Debug\net6.0\OOP1.runtimeconfig.json
+C:\Programming\C#\OOP1\OOP1\bin\Debug\net6.0\OOP1.dll
+C:\Programming\C#\OOP1\OOP1\bin\Debug\net6.0\ref\OOP1.dll
+C:\Programming\C#\OOP1\OOP1\bin\Debug\net6.0\OOP1.pdb
+C:\Programming\C#\OOP1\OOP1\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\OOP1.csproj.AssemblyReference.cache
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\OOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfoInputs.cache
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\OOP1.AssemblyInfo.cs
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\OOP1.csproj.CoreCompileInputs.cache
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\OOP1.csproj.CopyComplete
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\OOP1.dll
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\ref\OOP1.dll
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\OOP1.pdb
+C:\Programming\C#\OOP1\OOP1\obj\Debug\net6.0\OOP1.genruntimeconfig.cache

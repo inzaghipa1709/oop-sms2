@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nmj9Fugt4RvivfrzJ6Z2+b5VjHPXI75DfOnozGjQR+w80RZtvQswts7alTS13SFmISaMWxrKjacV5hcxkq3Hhw==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\C#\\OOP1\\OOP1\\OOP1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Inzaghi Posuma\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\bin\Debug\net6.0\MyLibrary.deps.json
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\bin\Debug\net6.0\MyLibrary.dll
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\bin\Debug\net6.0\ref\MyLibrary.dll
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\bin\Debug\net6.0\MyLibrary.pdb
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\obj\Debug\net6.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfoInputs.cache
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\obj\Debug\net6.0\MyLibrary.AssemblyInfo.cs
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\obj\Debug\net6.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\obj\Debug\net6.0\MyLibrary.dll
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\obj\Debug\net6.0\ref\MyLibrary.dll
+C:\DATAKU\doclecturer\2021 - 2\F220303 Pemrograman Berorientasi Obyek\SourceCode\OOP1\MyLibrary\obj\Debug\net6.0\MyLibrary.pdb
