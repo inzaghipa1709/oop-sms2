@@ -1,0 +1,15 @@
+C:\Programming\C#\PBO\LmdExprn\obj\Debug\net6.0\LmdExprn.csproj.AssemblyReference.cache
+C:\Programming\C#\PBO\LmdExprn\obj\Debug\net6.0\LmdExprn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\PBO\LmdExprn\obj\Debug\net6.0\LmdExprn.AssemblyInfoInputs.cache
+C:\Programming\C#\PBO\LmdExprn\obj\Debug\net6.0\LmdExprn.AssemblyInfo.cs
+C:\Programming\C#\PBO\LmdExprn\obj\Debug\net6.0\LmdExprn.csproj.CoreCompileInputs.cache
+C:\Programming\C#\PBO\LmdExprn\bin\Debug\net6.0\LmdExprn.exe
+C:\Programming\C#\PBO\LmdExprn\bin\Debug\net6.0\LmdExprn.deps.json
+C:\Programming\C#\PBO\LmdExprn\bin\Debug\net6.0\LmdExprn.runtimeconfig.json
+C:\Programming\C#\PBO\LmdExprn\bin\Debug\net6.0\LmdExprn.dll
+C:\Programming\C#\PBO\LmdExprn\bin\Debug\net6.0\ref\LmdExprn.dll
+C:\Programming\C#\PBO\LmdExprn\bin\Debug\net6.0\LmdExprn.pdb
+C:\Programming\C#\PBO\LmdExprn\obj\Debug\net6.0\LmdExprn.dll
+C:\Programming\C#\PBO\LmdExprn\obj\Debug\net6.0\ref\LmdExprn.dll
+C:\Programming\C#\PBO\LmdExprn\obj\Debug\net6.0\LmdExprn.pdb
+C:\Programming\C#\PBO\LmdExprn\obj\Debug\net6.0\LmdExprn.genruntimeconfig.cache
