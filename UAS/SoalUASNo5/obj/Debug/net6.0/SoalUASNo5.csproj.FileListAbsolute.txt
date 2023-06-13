@@ -1,0 +1,15 @@
+C:\Programming\C#\UAS\SoalUASNo5\bin\Debug\net6.0\SoalUASNo5.exe
+C:\Programming\C#\UAS\SoalUASNo5\bin\Debug\net6.0\SoalUASNo5.deps.json
+C:\Programming\C#\UAS\SoalUASNo5\bin\Debug\net6.0\SoalUASNo5.runtimeconfig.json
+C:\Programming\C#\UAS\SoalUASNo5\bin\Debug\net6.0\SoalUASNo5.dll
+C:\Programming\C#\UAS\SoalUASNo5\bin\Debug\net6.0\ref\SoalUASNo5.dll
+C:\Programming\C#\UAS\SoalUASNo5\bin\Debug\net6.0\SoalUASNo5.pdb
+C:\Programming\C#\UAS\SoalUASNo5\obj\Debug\net6.0\SoalUASNo5.csproj.AssemblyReference.cache
+C:\Programming\C#\UAS\SoalUASNo5\obj\Debug\net6.0\SoalUASNo5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\UAS\SoalUASNo5\obj\Debug\net6.0\SoalUASNo5.AssemblyInfoInputs.cache
+C:\Programming\C#\UAS\SoalUASNo5\obj\Debug\net6.0\SoalUASNo5.AssemblyInfo.cs
+C:\Programming\C#\UAS\SoalUASNo5\obj\Debug\net6.0\SoalUASNo5.csproj.CoreCompileInputs.cache
+C:\Programming\C#\UAS\SoalUASNo5\obj\Debug\net6.0\SoalUASNo5.dll
+C:\Programming\C#\UAS\SoalUASNo5\obj\Debug\net6.0\ref\SoalUASNo5.dll
+C:\Programming\C#\UAS\SoalUASNo5\obj\Debug\net6.0\SoalUASNo5.pdb
+C:\Programming\C#\UAS\SoalUASNo5\obj\Debug\net6.0\SoalUASNo5.genruntimeconfig.cache
