@@ -1,0 +1,15 @@
+C:\Programming\C#\PBO\Excptn\bin\Debug\net6.0\Excptn.exe
+C:\Programming\C#\PBO\Excptn\bin\Debug\net6.0\Excptn.deps.json
+C:\Programming\C#\PBO\Excptn\bin\Debug\net6.0\Excptn.runtimeconfig.json
+C:\Programming\C#\PBO\Excptn\bin\Debug\net6.0\Excptn.dll
+C:\Programming\C#\PBO\Excptn\bin\Debug\net6.0\ref\Excptn.dll
+C:\Programming\C#\PBO\Excptn\bin\Debug\net6.0\Excptn.pdb
+C:\Programming\C#\PBO\Excptn\obj\Debug\net6.0\Excptn.csproj.AssemblyReference.cache
+C:\Programming\C#\PBO\Excptn\obj\Debug\net6.0\Excptn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\PBO\Excptn\obj\Debug\net6.0\Excptn.AssemblyInfoInputs.cache
+C:\Programming\C#\PBO\Excptn\obj\Debug\net6.0\Excptn.AssemblyInfo.cs
+C:\Programming\C#\PBO\Excptn\obj\Debug\net6.0\Excptn.csproj.CoreCompileInputs.cache
+C:\Programming\C#\PBO\Excptn\obj\Debug\net6.0\Excptn.dll
+C:\Programming\C#\PBO\Excptn\obj\Debug\net6.0\ref\Excptn.dll
+C:\Programming\C#\PBO\Excptn\obj\Debug\net6.0\Excptn.pdb
+C:\Programming\C#\PBO\Excptn\obj\Debug\net6.0\Excptn.genruntimeconfig.cache

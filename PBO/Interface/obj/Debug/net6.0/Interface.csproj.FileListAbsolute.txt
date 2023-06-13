@@ -1,0 +1,5 @@
+C:\Programming\C#\PBO\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+C:\Programming\C#\PBO\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\PBO\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+C:\Programming\C#\PBO\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+C:\Programming\C#\PBO\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Programming\C#\PBO\List\bin\Debug\net6.0\List.exe
+C:\Programming\C#\PBO\List\bin\Debug\net6.0\List.deps.json
+C:\Programming\C#\PBO\List\bin\Debug\net6.0\List.runtimeconfig.json
+C:\Programming\C#\PBO\List\bin\Debug\net6.0\List.dll
+C:\Programming\C#\PBO\List\bin\Debug\net6.0\ref\List.dll
+C:\Programming\C#\PBO\List\bin\Debug\net6.0\List.pdb
+C:\Programming\C#\PBO\List\obj\Debug\net6.0\List.csproj.AssemblyReference.cache
+C:\Programming\C#\PBO\List\obj\Debug\net6.0\List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\PBO\List\obj\Debug\net6.0\List.AssemblyInfoInputs.cache
+C:\Programming\C#\PBO\List\obj\Debug\net6.0\List.AssemblyInfo.cs
+C:\Programming\C#\PBO\List\obj\Debug\net6.0\List.csproj.CoreCompileInputs.cache
+C:\Programming\C#\PBO\List\obj\Debug\net6.0\List.dll
+C:\Programming\C#\PBO\List\obj\Debug\net6.0\ref\List.dll
+C:\Programming\C#\PBO\List\obj\Debug\net6.0\List.pdb
+C:\Programming\C#\PBO\List\obj\Debug\net6.0\List.genruntimeconfig.cache
