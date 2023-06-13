@@ -1,0 +1,5 @@
+C:\Programming\C#\UTS\SoalNo3\obj\Debug\net6.0\SoalNo3.csproj.AssemblyReference.cache
+C:\Programming\C#\UTS\SoalNo3\obj\Debug\net6.0\SoalNo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\UTS\SoalNo3\obj\Debug\net6.0\SoalNo3.AssemblyInfoInputs.cache
+C:\Programming\C#\UTS\SoalNo3\obj\Debug\net6.0\SoalNo3.AssemblyInfo.cs
+C:\Programming\C#\UTS\SoalNo3\obj\Debug\net6.0\SoalNo3.csproj.CoreCompileInputs.cache

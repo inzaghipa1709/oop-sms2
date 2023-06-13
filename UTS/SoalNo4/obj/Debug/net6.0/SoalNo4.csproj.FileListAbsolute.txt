@@ -1,0 +1,15 @@
+C:\Programming\C#\UTS\SoalNo4\bin\Debug\net6.0\SoalNo4.exe
+C:\Programming\C#\UTS\SoalNo4\bin\Debug\net6.0\SoalNo4.deps.json
+C:\Programming\C#\UTS\SoalNo4\bin\Debug\net6.0\SoalNo4.runtimeconfig.json
+C:\Programming\C#\UTS\SoalNo4\bin\Debug\net6.0\SoalNo4.dll
+C:\Programming\C#\UTS\SoalNo4\bin\Debug\net6.0\ref\SoalNo4.dll
+C:\Programming\C#\UTS\SoalNo4\bin\Debug\net6.0\SoalNo4.pdb
+C:\Programming\C#\UTS\SoalNo4\obj\Debug\net6.0\SoalNo4.csproj.AssemblyReference.cache
+C:\Programming\C#\UTS\SoalNo4\obj\Debug\net6.0\SoalNo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\UTS\SoalNo4\obj\Debug\net6.0\SoalNo4.AssemblyInfoInputs.cache
+C:\Programming\C#\UTS\SoalNo4\obj\Debug\net6.0\SoalNo4.AssemblyInfo.cs
+C:\Programming\C#\UTS\SoalNo4\obj\Debug\net6.0\SoalNo4.csproj.CoreCompileInputs.cache
+C:\Programming\C#\UTS\SoalNo4\obj\Debug\net6.0\SoalNo4.dll
+C:\Programming\C#\UTS\SoalNo4\obj\Debug\net6.0\ref\SoalNo4.dll
+C:\Programming\C#\UTS\SoalNo4\obj\Debug\net6.0\SoalNo4.pdb
+C:\Programming\C#\UTS\SoalNo4\obj\Debug\net6.0\SoalNo4.genruntimeconfig.cache
