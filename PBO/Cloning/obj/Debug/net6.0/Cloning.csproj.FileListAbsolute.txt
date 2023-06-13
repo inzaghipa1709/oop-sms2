@@ -1,0 +1,15 @@
+C:\Programming\C#\PBO\Cloning\obj\Debug\net6.0\Cloning.csproj.AssemblyReference.cache
+C:\Programming\C#\PBO\Cloning\obj\Debug\net6.0\Cloning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\PBO\Cloning\obj\Debug\net6.0\Cloning.AssemblyInfoInputs.cache
+C:\Programming\C#\PBO\Cloning\obj\Debug\net6.0\Cloning.AssemblyInfo.cs
+C:\Programming\C#\PBO\Cloning\obj\Debug\net6.0\Cloning.csproj.CoreCompileInputs.cache
+C:\Programming\C#\PBO\Cloning\bin\Debug\net6.0\Cloning.exe
+C:\Programming\C#\PBO\Cloning\bin\Debug\net6.0\Cloning.deps.json
+C:\Programming\C#\PBO\Cloning\bin\Debug\net6.0\Cloning.runtimeconfig.json
+C:\Programming\C#\PBO\Cloning\bin\Debug\net6.0\Cloning.dll
+C:\Programming\C#\PBO\Cloning\bin\Debug\net6.0\ref\Cloning.dll
+C:\Programming\C#\PBO\Cloning\bin\Debug\net6.0\Cloning.pdb
+C:\Programming\C#\PBO\Cloning\obj\Debug\net6.0\Cloning.dll
+C:\Programming\C#\PBO\Cloning\obj\Debug\net6.0\ref\Cloning.dll
+C:\Programming\C#\PBO\Cloning\obj\Debug\net6.0\Cloning.pdb
+C:\Programming\C#\PBO\Cloning\obj\Debug\net6.0\Cloning.genruntimeconfig.cache

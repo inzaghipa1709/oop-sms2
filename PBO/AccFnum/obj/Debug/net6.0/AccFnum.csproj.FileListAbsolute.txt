@@ -1,0 +1,15 @@
+C:\Programming\C#\PBO\AccFnum\obj\Debug\net6.0\AccFnum.csproj.AssemblyReference.cache
+C:\Programming\C#\PBO\AccFnum\obj\Debug\net6.0\AccFnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\C#\PBO\AccFnum\obj\Debug\net6.0\AccFnum.AssemblyInfoInputs.cache
+C:\Programming\C#\PBO\AccFnum\obj\Debug\net6.0\AccFnum.AssemblyInfo.cs
+C:\Programming\C#\PBO\AccFnum\obj\Debug\net6.0\AccFnum.csproj.CoreCompileInputs.cache
+C:\Programming\C#\PBO\AccFnum\bin\Debug\net6.0\AccFnum.exe
+C:\Programming\C#\PBO\AccFnum\bin\Debug\net6.0\AccFnum.deps.json
+C:\Programming\C#\PBO\AccFnum\bin\Debug\net6.0\AccFnum.runtimeconfig.json
+C:\Programming\C#\PBO\AccFnum\bin\Debug\net6.0\AccFnum.dll
+C:\Programming\C#\PBO\AccFnum\bin\Debug\net6.0\ref\AccFnum.dll
+C:\Programming\C#\PBO\AccFnum\bin\Debug\net6.0\AccFnum.pdb
+C:\Programming\C#\PBO\AccFnum\obj\Debug\net6.0\AccFnum.dll
+C:\Programming\C#\PBO\AccFnum\obj\Debug\net6.0\ref\AccFnum.dll
+C:\Programming\C#\PBO\AccFnum\obj\Debug\net6.0\AccFnum.pdb
+C:\Programming\C#\PBO\AccFnum\obj\Debug\net6.0\AccFnum.genruntimeconfig.cache
